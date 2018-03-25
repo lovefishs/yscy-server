@@ -1,15 +1,13 @@
 {
-  "name": "yscy",
+  "name": "yscy-server",
   "version": "0.0.1",
-  "description": "Copy the ys-ck.com project",
+  "description": "yscy server",
   "main": "index.js",
   "scripts": {
     "dev": "egg-bin dev"
   },
   "keywords": [
-    "egg",
-    "vue.js",
-    "weex"
+    "egg"
   ],
   "author": "lovefishs",
   "license": "MIT",
