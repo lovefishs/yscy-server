@@ -2,15 +2,23 @@
   "name": "yscy-server",
   "version": "0.0.1",
   "description": "yscy server",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "dev": "egg-bin dev"
   },
   "keywords": [
     "egg"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovefishs/yscy-server.git"
+  },
   "author": "lovefishs",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lovefishs/yscy-server/issues"
+  },
+  "homepage": "https://github.com/lovefishs/yscy-server#readme",
   "dependencies": {
     "egg": "2.5.0"
   },
